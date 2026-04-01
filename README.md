@@ -46,6 +46,17 @@ The dataset includes:
 👉 [Download Power BI Dashboard](https://drive.google.com/file/d/1IK1hNDkZEoiyi-GMP_63fQLMW6Dtnmzv/view?usp=sharing)
 
 ---
+## 📊 Dashboard Insights
+
+<p align="center">
+  <img src="Images/Screenshot 2026-03-28 153131.png" width="30%">
+  <img src="Images/Screenshot 2026-03-28 153143.png" width="30%">
+  <img src="Images/Screenshot 2026-03-28 154911.png" width="30%">
+</p>
+
+---
+
+
 
 ## 📈 Key Insights
 
